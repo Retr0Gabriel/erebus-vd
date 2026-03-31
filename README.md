@@ -17,7 +17,7 @@ O ErebusVD utiliza um design pattern modular, separando a engine de execução d
 
 ## Como usar
 ```bash
-git clone [https://github.com/SEU_USUARIO/erebus-vd.git](https://github.com/SEU_USUARIO/erebus-vd.git)
+git clone [https://github.com/Retr0Gabriel/erebus-vd.git](https://github.com/Retr0Gabriel/erebus-vd.git)
 cd erebus-vd
 pip install paramiko
 python main.py -t 192.168.1.100 -u msfadmin -w wordlist.txt -th 1 -d 1.5 -r 3
