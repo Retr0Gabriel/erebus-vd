@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/erebus.png" width="400" alt="ErebusVD Logo">
+</p>
 # ErebusVD (Verification Daemon)
 
 Uma ferramenta acadêmica de força bruta multithreaded desenvolvida em Python. Criada para demonstrar conceitos de redes, concorrência (I/O Bound) e arquitetura de software de segurança.
@@ -18,3 +21,7 @@ git clone [https://github.com/SEU_USUARIO/erebus-vd.git](https://github.com/SEU_
 cd erebus-vd
 pip install paramiko
 python main.py -t 192.168.1.100 -u msfadmin -w wordlist.txt -th 1 -d 1.5 -r 3
+
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
