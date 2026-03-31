@@ -1,0 +1,10 @@
+# Arquivos de estado e wordlists
+*.txt
+*.status
+config.status
+senhas.txt
+
+# Arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*$py.class
